@@ -1,1 +1,1 @@
-# my-projects.readthedocs.io
+# my-projects
